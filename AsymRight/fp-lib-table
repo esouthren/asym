@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name redox_footprints)(type KiCad)(uri /Users/esouthren/Downloads/redox-keyboard-master/redox/pcb/rev1.0/redox_footprints.pretty)(options "")(descr ""))
+  (lib (name Keebio-Parts)(type KiCad)(uri /Users/esouthren/Desktop/Keebio-Parts.pretty-master)(options "")(descr ""))
+  (lib (name asym_logo_mod)(type KiCad)(uri /Users/esouthren/Desktop/asym_logo_mod)(options "")(descr ""))
+)

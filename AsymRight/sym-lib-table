@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name redox_rev1-rescue)(type Legacy)(uri /Users/esouthren/Downloads/redox-keyboard-master/redox/pcb/rev1.0/kicad_files/redox_rev1-rescue.lib)(options "")(descr ""))
+)
